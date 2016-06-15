@@ -1,2 +1,2 @@
 # hello-world
-Practice repository 
+My name is Sebastian and this is my first time using github.
